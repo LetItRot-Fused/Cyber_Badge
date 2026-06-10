@@ -1,0 +1,17 @@
+SET(SOURCES screens/ui_Launch.c
+    ui.c
+    components/ui_comp_hook.c
+    ui_helpers.c
+    images/ui_img_backgroundimg_png.c
+    images/ui_img_img_wifi_png.c
+    images/ui_img_img_ble_png.c
+    images/ui_img_img_light_png.c
+    images/ui_img_img_autoscr_png.c
+    images/ui_img_backgroundimg_1_png.c
+    images/ui_img_img_statebar_png.c
+    images/ui_img_img_battery_png.c
+    fonts/ui_font_text20.c
+    fonts/ui_font_wendu42.c
+    fonts/ui_font_zhongwen30.c)
+
+add_library(ui ${SOURCES})
