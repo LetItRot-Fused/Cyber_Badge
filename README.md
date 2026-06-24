@@ -66,6 +66,5 @@
 [Forairaaaaa/Chappie-II](https://github.com/Forairaaaaa/Chappie-II)
 ---
 ## 接下来是许愿时间
-- **蓝牙功能**：~~希望有大佬帮我添加手机传入gif和jpg的功能QAQ~~ → 已用 **WiFi 热点 + 网页上传** 方案实现（见上方「手机传图」，比蓝牙更通用、免装 App）
 - **别的**：希望大佬们继续优化开发不要嫌弃我的屎山，给赛博吧唧增加更多好玩功能
 -球球了 QAQ
