@@ -38,6 +38,8 @@
 4. 在网页里选择 jpg / gif（可多选）点击上传，可查看 / 删除 SD 卡现有图片
 5. 按 HOME 键退出，进入「ShowGIF」即可左右滑动查看刚上传的图片
 
+gif需要事先裁剪为360x360大小，裁剪完最好压缩一下 可以使用这个网站https://www.iloveimg.com/
+
 > 实现：徽章侧用 ESP-IDF 自带的 `esp_http_server` 提供上传网页并把文件写入 `/sdcard`；
 > 进入该 App 会临时切到 AP 热点模式，退出后自动释放。相关代码见
 > `CyberBadgeUI/Apps/App_Transfer/`。
